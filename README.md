@@ -1,4 +1,4 @@
-# Hi, I'm Neelesh Rastogi! 👋
+# Hey There (नमस्ते) 👋🏼
 
 I am an ML Engineer specializing in building platforms and infrastructure for driving data-driven solutions to be served as production-grade applications at scale.
 
